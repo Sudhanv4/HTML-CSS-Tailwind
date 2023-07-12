@@ -1,4 +1,4 @@
-# RazorPay UI Clone
+# RazorPay Clone
 
 This project is a UI clone of the RazorPay interface, created using HTML, CSS, and Tailwind CSS.
 
